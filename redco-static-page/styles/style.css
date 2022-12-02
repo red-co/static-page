@@ -1,0 +1,10 @@
+
+body {
+    background-image: url('../images/sky.jpg');
+}
+
+button {
+    width: 3em;
+    height: 3em;
+    background-color: bisque;
+}
